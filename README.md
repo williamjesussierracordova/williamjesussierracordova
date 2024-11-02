@@ -1,12 +1,46 @@
 <h1 align="center">Hi Geeks, I'm William <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-
-
-
+<br />
 <!--
 -->
 
+<img align="right" alt="Coding" width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG0zamlyZnl3ajNmdzMwMjgxcmxsOHN1NGluNXB3cGZrOWNoem00MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YOczfjtC0H0IMBKhRf/giphy.gif">
+
+## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
+
+- 🔭 I’m currently studying Software Engineering at Universidad San Ignacio de Loyola, ranking in the top 15% of my class.
+- 👯 I’m looking forward to collaborating on machine learning and web development projects, particularly those focused on data-driven solutions and impactful applications.
+- 👨‍💻 You can check out all my open-source projects on GitHub, including my Breast Cancer Detection Web App built with React, Node.js, and CNNs.
+- 💬 Feel free to reach out and ask me about data analysis, web development, or my experience with Firebase and React!
+- 💪🏼 Favorite Quote: "Technology is best when it brings people together."
+
 <br />
+<!--
+-->
+
+<h2>🛠️ | Languages, Frameworks, and Tools </h2>
+<table>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=python,java,cpp,cs,nodejs"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,mui,bootstrap,html,css,js,ts"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,mongodb,sqlite"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=github,gitlab,git"/></td>
+    </tr>
+</table>
+
+<br />
+<!--
+-->
+
 
 <div align="left">
   
